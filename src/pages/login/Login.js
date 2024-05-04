@@ -33,7 +33,7 @@ class Login extends Component {
     return (
       <div className="App">
         <div className="container">
-          <h2>LOGIN</h2>
+          <h2>LOGIN PUC</h2>
           <form className="form-group">
             <input
               type="text"
