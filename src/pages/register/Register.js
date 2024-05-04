@@ -56,7 +56,7 @@ class Register extends Component {
         return (
             <div className="App">
                 <div className="container">
-                    <h2>Cadastro</h2>
+                    <h2>CADASTRO</h2>
                     <form className="form-group">
                         <input
                             type="text"
